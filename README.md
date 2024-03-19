@@ -1,6 +1,6 @@
-# FileAttachmentAPI
+# CloudStorageAPI
 
-> A FileAttachmentAPI é uma solução desenvolvida em C# com o .NET 8, projetada para simplificar o processo de anexação de arquivos em aplicações. Seja para armazenar documentos, imagens ou qualquer outro tipo de arquivo, esta API fornece uma maneira eficiente e escalável de fazer upload e gerenciar arquivos.
+> A CloudStorageAPI é uma solução desenvolvida em C# com o .NET 8, projetada para simplificar o processo de anexação de arquivos em aplicações. Seja para armazenar documentos, imagens ou qualquer outro tipo de arquivo, esta API fornece uma maneira eficiente e escalável de fazer upload e gerenciar arquivos.
 
 ## 🚀 Começando
 
