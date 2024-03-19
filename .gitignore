@@ -1,0 +1,9 @@
+# RAIZ FOLDERS #
+###################
+.vs/
+
+
+# FOLDERS #
+###################
+CloudStorage/CloudStorage.API/bin/
+CloudStorage/CloudStorage.API/OBJ/
